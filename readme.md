@@ -11,9 +11,8 @@ Funzionalità
 Aggiungi task
 
 Completa o deseleziona task cliccando sul testo
-
 Elimina task
-
 Salvataggio automatico con localStorage
-
 UI semplice, pulita e responsive
+
+https://santivadaladev.github.io/todo-list-app/
